@@ -15,6 +15,10 @@ public:
     static void Introduce();
     static int FirstQuestion();
     static void FirstAnswer();
+    static void SecondQuestion();
+    static void SecondAnswer1();
+    static void SecondAnswer2();
+
 private:
     std::string userName;
 };
