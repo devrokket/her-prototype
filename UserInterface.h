@@ -5,6 +5,7 @@
 #ifndef SAMANTHA_USERINTERFACE_H
 #define SAMANTHA_USERINTERFACE_H
 
+#include "Story.h"
 #include "iostream"
 #include "string"
 

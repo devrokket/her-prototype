@@ -5,7 +5,9 @@
 #include "UserInterface.h"
 
 void UserInterface::Greeting() {
+    Story story;
     std::cout << "두근두근 대학교 연애 시뮬레이터!" << std::endl;
+    story.Intro();
     std::cout << ">>" << std::endl;
 }
 

@@ -58,6 +58,30 @@ build CMakeFiles/samantha.dir/UserInterface.cpp.o: CXX_COMPILER__samantha_Debug 
   OBJECT_DIR = CMakeFiles/samantha.dir
   OBJECT_FILE_DIR = CMakeFiles/samantha.dir
 
+build CMakeFiles/samantha.dir/Story.cpp.o: CXX_COMPILER__samantha_Debug /Users/rocket/CLionProjects/samantha/Story.cpp || cmake_object_order_depends_target_samantha
+  DEP_FILE = CMakeFiles/samantha.dir/Story.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++14
+  OBJECT_DIR = CMakeFiles/samantha.dir
+  OBJECT_FILE_DIR = CMakeFiles/samantha.dir
+
+build CMakeFiles/samantha.dir/Her.cpp.o: CXX_COMPILER__samantha_Debug /Users/rocket/CLionProjects/samantha/Her.cpp || cmake_object_order_depends_target_samantha
+  DEP_FILE = CMakeFiles/samantha.dir/Her.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++14
+  OBJECT_DIR = CMakeFiles/samantha.dir
+  OBJECT_FILE_DIR = CMakeFiles/samantha.dir
+
+build CMakeFiles/samantha.dir/User.cpp.o: CXX_COMPILER__samantha_Debug /Users/rocket/CLionProjects/samantha/User.cpp || cmake_object_order_depends_target_samantha
+  DEP_FILE = CMakeFiles/samantha.dir/User.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++14
+  OBJECT_DIR = CMakeFiles/samantha.dir
+  OBJECT_FILE_DIR = CMakeFiles/samantha.dir
+
+build CMakeFiles/samantha.dir/Run.cpp.o: CXX_COMPILER__samantha_Debug /Users/rocket/CLionProjects/samantha/Run.cpp || cmake_object_order_depends_target_samantha
+  DEP_FILE = CMakeFiles/samantha.dir/Run.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2 -std=gnu++14
+  OBJECT_DIR = CMakeFiles/samantha.dir
+  OBJECT_FILE_DIR = CMakeFiles/samantha.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target samantha
@@ -66,7 +90,7 @@ build CMakeFiles/samantha.dir/UserInterface.cpp.o: CXX_COMPILER__samantha_Debug 
 #############################################
 # Link the executable samantha
 
-build samantha: CXX_EXECUTABLE_LINKER__samantha_Debug CMakeFiles/samantha.dir/main.cpp.o CMakeFiles/samantha.dir/UserInterface.cpp.o
+build samantha: CXX_EXECUTABLE_LINKER__samantha_Debug CMakeFiles/samantha.dir/main.cpp.o CMakeFiles/samantha.dir/UserInterface.cpp.o CMakeFiles/samantha.dir/Story.cpp.o CMakeFiles/samantha.dir/Her.cpp.o CMakeFiles/samantha.dir/User.cpp.o CMakeFiles/samantha.dir/Run.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -mmacosx-version-min=12.2
   OBJECT_DIR = CMakeFiles/samantha.dir
   POST_BUILD = :
