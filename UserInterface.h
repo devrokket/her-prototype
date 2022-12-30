@@ -6,19 +6,21 @@
 #define SAMANTHA_USERINTERFACE_H
 
 #include "Story.h"
+#include "Her.h"
 #include "iostream"
 #include "string"
 
+
 class UserInterface {
 public:
-    static void Greeting();
-    static std::string UserInformation();
-    static void Introduce();
-    static int FirstQuestion();
-    static void FirstAnswer();
-    static void SecondQuestion();
-    static void SecondAnswer1();
-    static void SecondAnswer2();
+    void Greeting();
+    std::string UserInformation();
+    void Introduce();
+    int FirstQuestion();
+    void FirstAnswer();
+    void SecondQuestion();
+    void SecondAnswer1();
+    void SecondAnswer2();
 
 private:
     std::string userName;

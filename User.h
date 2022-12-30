@@ -13,6 +13,7 @@ private:
     std::string userName;
 public:
     User(std::string userName_);
+    std::string GetUserName();
 
 };
 

@@ -1,10 +1,14 @@
 # ninja log v5
-2	617	1672330040910315611	CMakeFiles/samantha.dir/main.cpp.o	cd94e73c8e6d1909
-4	45	1672330040339227461	CMakeFiles/samantha.dir/Her.cpp.o	1eeb5b8adcd9937b
-3	641	1672330040935060468	CMakeFiles/samantha.dir/UserInterface.cpp.o	36f97ba2808c62e
-641	697	1672330040993619873	samantha	1c1939fc9af34c41
-3	626	1672330040920006035	CMakeFiles/samantha.dir/Story.cpp.o	e931619cac927a42
-4	48	1672330040343006392	CMakeFiles/samantha.dir/User.cpp.o	a5bf74b26f09b127
-3	37	1672331338095588868	CMakeFiles/samantha.dir/Run.cpp.o	f7344e3b03f6e2bf
-2	505	1672331338561599979	CMakeFiles/samantha.dir/User.cpp.o	a5bf74b26f09b127
-505	560	1672331338619595943	samantha	1909e46a60061c52
+2	496	1672383753194395245	CMakeFiles/samantha.dir/Run.cpp.o	f7344e3b03f6e2bf
+2	566	1672383338509785465	CMakeFiles/samantha.dir/User.cpp.o	a5bf74b26f09b127
+2	489	1672380219321553461	CMakeFiles/samantha.dir/Story.cpp.o	e931619cac927a42
+481	539	1672383381962140292	samantha	1909e46a60061c52
+2	519	1672383056065296480	CMakeFiles/samantha.dir/UserInterface.cpp.o	36f97ba2808c62e
+2	784	1672382417490769852	CMakeFiles/samantha.dir/Her.cpp.o	1eeb5b8adcd9937b
+2	559	1672383338502705667	CMakeFiles/samantha.dir/main.cpp.o	cd94e73c8e6d1909
+2	495	1672383852535327807	CMakeFiles/samantha.dir/Run.cpp.o	f7344e3b03f6e2bf
+1	507	1672383912835764958	CMakeFiles/samantha.dir/UserInterface.cpp.o	36f97ba2808c62e
+1	476	1672383982333130895	CMakeFiles/samantha.dir/Run.cpp.o	f7344e3b03f6e2bf
+1	483	1672383996829555114	CMakeFiles/samantha.dir/Run.cpp.o	f7344e3b03f6e2bf
+2	486	1672384027774580666	CMakeFiles/samantha.dir/UserInterface.cpp.o	36f97ba2808c62e
+486	538	1672384027828870950	samantha	1909e46a60061c52

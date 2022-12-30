@@ -1,9 +1,7 @@
-#include "UserInterface.h"
+#include "Run.h"
 
 int main() {
-    UserInterface UI;
-    UI.Greeting();
-    UI.Introduce();
-    UI.FirstAnswer();
+    Run player;
+    player.StartGame();
     return 0;
 }

@@ -6,3 +6,7 @@
 
 User::User(std::string userName_) { userName = userName_; }
 
+std::string User::GetUserName() {
+    return userName;
+}
+
