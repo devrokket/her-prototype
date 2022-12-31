@@ -40,6 +40,7 @@ int Run::StartGame() {
     }
     else if(option == 2) {
         std::cout << "게임 설명: ..." << std::endl;
+        UI.PlayDescription();
 
     }
     else

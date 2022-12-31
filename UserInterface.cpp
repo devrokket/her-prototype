@@ -48,6 +48,10 @@ void UserInterface::SecondQuestion() {
     std::cin >> secondAnswer;
 }
 
+void UserInterface::PlayDescription() {
+    std::cout << "Hot to Play this game: ..." << std::endl;
+}
+
 
 
 

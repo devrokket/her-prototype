@@ -21,6 +21,7 @@ public:
     void SecondQuestion();
     void SecondAnswer1();
     void SecondAnswer2();
+    void PlayDescription();
 
 private:
     std::string userName;
