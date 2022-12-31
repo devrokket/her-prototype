@@ -9,6 +9,10 @@
 class Story {
 public:
     void Intro();
+    void FirstMeeting();
+    void Scene1();
+    void Scene2();
+    void Scene3();
 
 };
 
